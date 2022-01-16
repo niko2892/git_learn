@@ -1,1 +1,2 @@
-alert('second commit');
+alert('third commit');
+alert('third');
